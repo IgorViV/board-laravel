@@ -1,4 +1,4 @@
 
-## Demo application on Laravel
+## Application on Laravel
 
-### Bulletin board
+Demo project Notice board
